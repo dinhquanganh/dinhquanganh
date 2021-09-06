@@ -1,5 +1,6 @@
 # Hi, there! I'm dinhquanganh  <img src="https://emoji.gg/assets/emoji/9442-cat-scratch.gif" width="64px" height="64px" alt="cat_scratch">
-
+<img src="https://contrib.rocks/image?repo=dinhquanganh/HRM_ZeliosSea"
+<img src="https://komarev.com/ghpvc/?username=dinhquanganh&color=blue">
 <img src="https://github-readme-stats.vercel.app/api?username=dinhquanganh&theme=react&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhquanganh&theme=react&layout=compact&langs_count=10">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=dinhquanganh&repo=dinhquanganh>
@@ -9,8 +10,8 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">                                                                           <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">                                            
-<img src="https://komarev.com/ghpvc/?username=dinhquanganh&color=blue">
-<img src="https://contrib.rocks/image?repo=dinhquanganh/HRM_ZeliosSea"
+
+
 
 
 
