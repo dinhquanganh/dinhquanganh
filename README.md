@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, there! I'm dinhquanganh  <img src="https://emoji.gg/assets/emoji/9442-cat-scratch.gif" width="64px" height="64px" alt="cat_scratch">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dinhquanganh&theme=react&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhquanganh&theme=react&layout=compact&langs_count=10">
