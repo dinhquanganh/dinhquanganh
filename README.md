@@ -1,14 +1,14 @@
-# Hi, there! I'm dinhquanganh💪🏼
+# Hi, there! I'm dinhquanganh 💠
 
 [<img src="https://komarev.com/ghpvc/?username=dinhquanganh&color=blue" height="21" style="position: relative; top: 1px">](https://github.com/dinhquanganh)
 <br/>
 
-<p align="center"><img src="https://emoji.gg/assets/emoji/9442-cat-scratch.gif" width="64px" height="64px" alt="cat_scratch" style="transform: rotateY(180deg)"> <img src="https://contrib.rocks/image?repo=dinhquanganh/dinhquanganh"><img src="https://emoji.gg/assets/emoji/9442-cat-scratch.gif" width="64px" height="64px" alt="cat_scratch" style="margin-left: 3px"> </p>
+<p align="center"><a href="https://emoji.gg/emoji/2059-popcat"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"></a> <img src="https://contrib.rocks/image?repo=dinhquanganh/dinhquanganh"><a href="https://emoji.gg/emoji/2059-popcat"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"></a> </p>
 
 <br/>
 My name is Đinh Quang Anh. I'm front-end developer.
 
-## My skill
+## 🔰My skill
 
 Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,16 +25,24 @@ Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Visit my website
+## ✈️Visit my website
 
 You can visit my website on here: [dinhquanganh.com](https://dinhquanganh.com)
 
-## Github Stats
+## 🤹🏼‍♂️Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=dinhquanganh&theme=react&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhquanganh&theme=react&layout=compact&langs_count=10">
 
-## How to reach me
+## 🤙🏼How to reach me
 
 <a href="mailto:dinhquanganhdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">](https://www.facebook.com/pastetu)
+
+<p align="center">
+<b>Did you forget something? ⭐</b>
+
+</b>
+<p align="center">
+<a href="https://emoji.gg/emoji/6507-cat-stare"><img src="https://emoji.gg/assets/emoji/6507-cat-stare.gif" width="64px" height="64px" alt="Cat_stare"></a>
+</b>
