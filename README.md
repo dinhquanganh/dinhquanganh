@@ -2,7 +2,9 @@
 
 [<img src="https://komarev.com/ghpvc/?username=dinhquanganh&color=blue" height="21" style="position: relative; top: 1px">](https://github.com/dinhquanganh)
 <br/>
-[<img src="https://contrib.rocks/image?repo=dinhquanganh/dinhquanganh" align="center">]()
+
+<p align="center"><img src="https://contrib.rocks/image?repo=dinhquanganh/dinhquanganh"></p>
+
 <br/>
 My name is Đinh Quang Anh. I'm front-end developer.
 
