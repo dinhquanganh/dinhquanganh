@@ -1,6 +1,6 @@
 # Hi, there! I'm dinhquanganh 💠
 
-[<img src="https://komarev.com/ghpvc/?username=dinhquanganh&color=blue" height="21" style="position: relative; top: 1px">](https://github.com/dinhquanganh)
+[<img src="https://komarev.com/ghpvc/?username=dinhquanganh&color=blue" height="21">](https://github.com/dinhquanganh)
 <br/>
 
 <p align="center"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"><img src="https://contrib.rocks/image?repo=dinhquanganh/dinhquanganh"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"> </p>
