@@ -1,4 +1,4 @@
-p# Hi, there! I'm dinhquanganh 💠
+# Hi, there! I'm dinhquanganh 💠
 
 [<img src="https://komarev.com/ghpvc/?username=dinhquanganh&color=blue" height="21" style="position: relative; top: 1px">](https://github.com/dinhquanganh)
 <br/>
