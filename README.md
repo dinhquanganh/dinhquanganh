@@ -3,7 +3,7 @@
 [<img src="https://komarev.com/ghpvc/?username=dinhquanganh&color=blue" height="21" style="position: relative; top: 1px">](https://github.com/dinhquanganh)
 <br/>
 
-<p align="center"><a href="https://emoji.gg/emoji/2059-popcat"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"></a> <img src="https://contrib.rocks/image?repo=dinhquanganh/dinhquanganh"><a href="https://emoji.gg/emoji/2059-popcat"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"></a> </p>
+<p align="center"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"><img src="https://contrib.rocks/image?repo=dinhquanganh/dinhquanganh"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"> </p>
 
 <br/>
 My name is Đinh Quang Anh. I'm front-end developer.
