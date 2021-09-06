@@ -45,7 +45,7 @@ You can visit my website on here: [dinhquanganh.com](https://dinhquanganh.com)
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">](https://www.facebook.com/pastetu)
 
 <p align="center">
-<b>Did you forget something? ⭐</b>
+<b>Do you follow me?</b>
 
 </b>
 <p align="center">
