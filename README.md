@@ -1,6 +1,8 @@
 # Hi, there! I'm dinhquanganh 💠
 
-[<img src="https://komarev.com/ghpvc/?username=dinhquanganh&color=blue" height="21">](https://github.com/dinhquanganh)
+![](https://komarev.com/ghpvc/?username=dinhquanganh&color=blue)
+![](https://img.shields.io/github/followers/dinhquanganh?label=Follow)
+![](https://img.shields.io/github/stars/dinhquanganh)
 <br/>
 
 <p align="center"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"><img src="https://contrib.rocks/image?repo=dinhquanganh/dinhquanganh"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"> </p>
