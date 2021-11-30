@@ -1,12 +1,12 @@
-# Hi, there! I'm dinhquanganh 💠
+# Hi, there! I'm ryderdinh 💠
 
-![view](https://komarev.com/ghpvc/?username=dinhquanganh&color=blue)
-![follow](https://img.shields.io/github/followers/dinhquanganh?style=social)
-![star](https://img.shields.io/github/stars/dinhquanganh?style=social)
+![view](https://komarev.com/ghpvc/?username=ryderdinh&color=blue)
+![follow](https://img.shields.io/github/followers/ryderdinh?style=social)
+![star](https://img.shields.io/github/stars/ryderdinh?style=social)
 
-<p align="center"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"><img src="https://contrib.rocks/image?repo=dinhquanganh/dinhquanganh"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"> </p>
+<p align="center"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"><img src="https://contrib.rocks/image?repo=ryderdinh/ryderdinh"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"> </p>
 
-<p align="center">My name is Đinh Quang Anh. I'm front-end developer.</p>
+<p align="center">My name is Đinh Quang Anh. I'm front-end web developer.</p>
 
 ## 🔰My skill
 
@@ -32,12 +32,12 @@ Design
 
 ## ✈️Visit my website
 
-You can visit my website on here: [dinhquanganh.com](https://dinhquanganh.com)
+You can visit my website on here: [www.dinhquanganh.host](www.dinhquanganh.host)
 
 ## 🤹🏼‍♂️Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dinhquanganh&theme=react&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhquanganh&theme=react&layout=compact&langs_count=10">
+<img src="https://github-readme-stats.vercel.app/api?username=ryderdinh&theme=react&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryderdinh&theme=react&layout=compact&langs_count=10">
 
 ## 🤙🏼How to reach me
 
