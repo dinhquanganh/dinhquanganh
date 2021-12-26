@@ -7,6 +7,7 @@
 <p align="center"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"><img src="https://contrib.rocks/image?repo=ryderdinh/ryderdinh"><img src="https://emoji.gg/assets/emoji/2059-popcat.gif" width="64px" height="64px" alt="PopCat"> </p>
 
 <p align="center">My name is Đinh Quang Anh. I'm front-end web developer.</p>
+<a href="https://app.daily.dev/ryderdinh"><img src="https://api.daily.dev/devcards/798e9c4b7e75419c888a795f1a21eab7.png?r=fgb" width="400" alt="Dinh Quang Anh's Dev Card"/></a>
 
 ## 🔰My skill
 
