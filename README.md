@@ -45,7 +45,7 @@ You can visit my website on here: [www.dinhquanganh.host](www.dinhquanganh.host)
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">](https://www.facebook.com/pastetu)
 
 <p align="center">
-<b>What do u thik?</b>
+<b>What do u think?</b>
 
 </b>
 <p align="center">
