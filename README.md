@@ -42,7 +42,7 @@ You can visit my website on here: [www.dinhquanganh.host](www.dinhquanganh.host)
 ## 🤙🏼How to reach me
 
 <a href="mailto:dinhquanganhdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">](https://www.facebook.com/pastetu)
+[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">](https://www.facebook.com/ryderdinh47)
 
 <p align="center">
 <b>What do u think?</b>
