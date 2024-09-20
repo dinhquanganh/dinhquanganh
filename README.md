@@ -13,7 +13,7 @@
   </p>
 </a>
 
-## 🔰My skill
+## 🔰Skill
 
 Bases
 
