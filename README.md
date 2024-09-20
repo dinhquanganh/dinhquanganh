@@ -40,7 +40,6 @@ You can visit my website on here: [www.dinhquanganh.host](www.dinhquanganh.host)
 
 ## 🤹🏼‍♂️Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryderdinh&theme=react&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryderdinh&theme=react&layout=compact&langs_count=10">
 
 ## 🤙🏼How to reach me
